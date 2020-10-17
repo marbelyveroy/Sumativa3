@@ -100,6 +100,3 @@ El método delete recibe 2 parámetros:
 	base_datos.delete("usuario", {"id":"1"});
 ```
 ## Version v1.0.0
-
-## Autor
-* [G. Mizael Mtz Hdz](https://www.google.com/search?q=G.+Mizael+Mtz+Hdz)
